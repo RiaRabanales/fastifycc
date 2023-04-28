@@ -1,0 +1,5 @@
+### GET ALL ITEMS
+GET http://localhost:8080/items HTTP/1.1
+
+### GET SINGLE ITEM (FIRST ONE)
+GET http://localhost:8080/items/1 HTTP/1.1
